@@ -22,9 +22,9 @@
       }
     ]
   },
-  "availabeNumbers": {
+  "availableNumbers": {
     "status": "ok",
-    "availabeNumbers": [
+    "availableNumbers": [
       {
         "id": 1,
         "softNumber": "+52 21 54 78 25"
