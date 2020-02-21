@@ -58,5 +58,25 @@
         "softNumber": "+52 21 54 78 32"
       }
     ]
+  },
+  "accounts": {
+    "status": "ok",
+    "accounts": [
+      {
+        "id": 1,
+        "phoneNickname": "Work Phone",
+        "phoneNumber": "+52 21 54 78 25"
+      },
+      {
+        "id": 2,
+        "phoneNickname": "Family Phone",
+        "phoneNumber": "+52 21 54 78 26"
+      },
+      {
+        "id": 3,
+        "phoneNickname": "Poker Phone",
+        "phoneNumber": "+52 21 54 78 25"
+      }
+    ]
   }
 }
