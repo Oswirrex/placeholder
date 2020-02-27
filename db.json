@@ -22,6 +22,43 @@
       }
     ]
   },
+  "callLog" : {
+    "status": "ok",
+    "callLog": [
+      {
+        "id": 1,
+        "caller": "Oswaldo Gallo",
+        "phoneNumber": "55 61 02 54 88",
+        "callerGroup": "Work",
+        "time": "4:40 PM",
+        "answered": true
+      },
+      {
+        "id": 2,
+        "caller": "Gerardo Ramirez",
+        "phoneNumber": "55 61 02 54 89",
+        "callerGroup": "Work",
+        "time": "1:40 PM",
+        "answered": true
+      },
+      {
+        "id": 3,
+        "caller": "David Nieto",
+        "phoneNumber": "55 61 02 54 90",
+        "callerGroup": "Play Group",
+        "time": "1:40 PM",
+        "answered": false
+      },
+      {
+        "id": 4,
+        "caller": "Saul Suarez",
+        "phoneNumber": "55 61 02 54 92",
+        "callerGroup": "Family",
+        "time": "1:40 PM",
+        "answered": false
+      }
+    ]
+  },
   "availableNumbers": {
     "status": "ok",
     "availableNumbers": [
