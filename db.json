@@ -1,24 +1,48 @@
 {
-  "posts": {
+  "contacts": {
     "status": "ok",
-    "posts": [
+    "data": [
       {
         "id": 1,
-        "userId": 1,
-        "title": "Post 1",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis explicabo quaerat, expedita, recusandae laboriosam mollitia, eaque ut optio odit facere, autem commodi. Ipsa minus voluptatem id cupiditate mollitia itaque architecto."
+        "name": "Oswaldo",
+        "lastName": "Gallo",
+        "type": "Work",
+        "phoneNumber": "+52 771 257 1449"
       },
       {
         "id": 2,
-        "userId": 1,
-        "title": "Post 2",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quas eligendi adipisci cupiditate totam quibusdam, facilis quam a. Accusantium, possimus, maiores dignissimos eveniet harum labore inventore corporis mollitia sunt in!"
+        "name": "Gerardo",
+        "lastName": "Ramirez",
+        "type": "Personal",
+        "phoneNumber": "+52 771 527 4194"
       },
       {
         "id": 3,
-        "userId": 1,
-        "title": "Post 3",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis laudantium tempora pariatur quibusdam. Eaque quibusdam facilis odit at nobis illum tempore velit perferendis, numquam animi maxime, eius, atque necessitatibus blanditiis?"
+        "name": "Daniel",
+        "lastName": "Acosta",
+        "type": "Poker",
+        "phoneNumber": "+52 771 752 7962"
+      },
+      {
+        "id": 4,
+        "name": "Evangelina",
+        "lastName": "Romero",
+        "type": "Personal",
+        "phoneNumber": "+52 771 824 0145"
+      },
+      {
+        "id": 5,
+        "name": "Abraham",
+        "lastName": "Serrano",
+        "type": "Poker",
+        "phoneNumber": "+52 771 357 9512"
+      },
+      {
+        "id": 6,
+        "name": "David",
+        "lastName": "Nieto",
+        "type": "Work",
+        "phoneNumber": "+52 771 645 7619"
       }
     ]
   },
