@@ -54,32 +54,54 @@
         "caller": "Oswaldo Gallo",
         "phoneNumber": "55 61 02 54 88",
         "callerGroup": "Work",
-        "time": "4:40 PM",
-        "answered": true
+        "dateTime": "2020-03-04T12:35:01.746Z",
+        "answered": true,
+        "type": "incoming"
       },
       {
         "id": 2,
         "caller": "Gerardo Ramirez",
         "phoneNumber": "55 61 02 54 89",
-        "callerGroup": "Work",
-        "time": "1:40 PM",
-        "answered": true
+        "callerGroup": "Personal",
+        "dateTime": "2020-03-04T10:20:01.746Z",
+        "answered": true,
+        "type": "incoming"
       },
       {
         "id": 3,
         "caller": "David Nieto",
         "phoneNumber": "55 61 02 54 90",
-        "callerGroup": "The Boys",
-        "time": "1:40 PM",
-        "answered": false
+        "callerGroup": "Work",
+        "dateTime": "2020-03-04T07:50:01.746Z",
+        "answered": false,
+        "type": "incoming"
       },
       {
         "id": 4,
-        "caller": "Saul Suarez",
+        "caller": "Evangelina Romero",
+        "phoneNumber": "55 61 02 54 99",
+        "callerGroup": "Personal",
+        "dateTime": "2020-03-03T20:32:01.746Z",
+        "answered": true,
+        "type": "incoming"
+      },
+      {
+        "id": 5,
+        "caller": "Daniel Acosta",
         "phoneNumber": "55 61 02 54 92",
-        "callerGroup": "Family",
-        "time": "1:40 PM",
-        "answered": false
+        "callerGroup": "Poker",
+        "dateTime": "2020-03-03T17:02:01.746Z",
+        "answered": true,
+        "type": "incoming"
+      },
+      {
+        "id": 6,
+        "caller": "Daniel Acosta",
+        "phoneNumber": "55 61 02 54 92",
+        "callerGroup": "Poker",
+        "dateTime": "2020-03-03T17:03:01.746Z",
+        "answered": false,
+        "type": "incoming"
       }
     ]
   },
