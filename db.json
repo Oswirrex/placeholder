@@ -52,7 +52,7 @@
       {
         "id": 1,
         "caller": "Oswaldo Gallo",
-        "phoneNumber": "+52 1 55 6102 5488",
+        "phoneNumber": "+525561025488",
         "callerGroup": "Work",
         "dateTime": "2020-03-04T19:35:01+0000",
         "answered": true,
@@ -61,7 +61,7 @@
       {
         "id": 2,
         "caller": "Gerardo Ramirez",
-        "phoneNumber": "55 61 02 54 89",
+        "phoneNumber": "+525561025488",
         "callerGroup": "Personal",
         "dateTime": "2020-03-04T18:20:01+0000",
         "answered": true,
@@ -70,7 +70,7 @@
       {
         "id": 3,
         "caller": "David Nieto",
-        "phoneNumber": "55 61 02 54 90",
+        "phoneNumber": "+525561025488",
         "callerGroup": "Work",
         "dateTime": "2020-03-04T15:50:01+0000",
         "answered": false,
@@ -79,7 +79,7 @@
       {
         "id": 4,
         "caller": "Evangelina Romero",
-        "phoneNumber": "55 61 02 54 99",
+        "phoneNumber": "+525561025488",
         "callerGroup": "Personal",
         "dateTime": "2020-03-03T23:32:01+0000",
         "answered": true,
@@ -88,7 +88,7 @@
       {
         "id": 5,
         "caller": "Daniel Acosta",
-        "phoneNumber": "55 61 02 54 92",
+        "phoneNumber": "+525561025488",
         "callerGroup": "Poker",
         "dateTime": "2020-03-03T19:02:01+0000",
         "answered": true,
@@ -97,7 +97,7 @@
       {
         "id": 6,
         "caller": "Daniel Acosta",
-        "phoneNumber": "55 61 02 54 92",
+        "phoneNumber": "+525561025488",
         "callerGroup": "Poker",
         "dateTime": "2020-03-03T19:01:01+0000",
         "answered": false,
@@ -106,7 +106,7 @@
       {
         "id": 7,
         "caller": "Oswaldo Gallo",
-        "phoneNumber": "55 61 02 54 88",
+        "phoneNumber": "+525561025488",
         "callerGroup": "Work",
         "dateTime": "2020-03-02T19:35:01+0000",
         "answered": true,
@@ -115,7 +115,7 @@
       {
         "id": 8,
         "caller": "Gerardo Ramirez",
-        "phoneNumber": "55 61 02 54 89",
+        "phoneNumber": "+525561025488",
         "callerGroup": "Personal",
         "dateTime": "2020-03-01T18:20:01+0000",
         "answered": true,
@@ -124,7 +124,7 @@
       {
         "id": 9,
         "caller": "David Nieto",
-        "phoneNumber": "55 61 02 54 90",
+        "phoneNumber": "+525561025488",
         "callerGroup": "Work",
         "dateTime": "2020-02-29T15:50:01+0000",
         "answered": false,
@@ -133,7 +133,7 @@
       {
         "id": 10,
         "caller": "Evangelina Romero",
-        "phoneNumber": "55 61 02 54 99",
+        "phoneNumber": "+525561025488",
         "callerGroup": "Personal",
         "dateTime": "2020-02-28T23:32:01+0000",
         "answered": true,
@@ -142,7 +142,7 @@
       {
         "id": 11,
         "caller": "Daniel Acosta",
-        "phoneNumber": "55 61 02 54 92",
+        "phoneNumber": "+525561025488",
         "callerGroup": "Poker",
         "dateTime": "2020-02-27T19:02:01+0000",
         "answered": true,
@@ -151,7 +151,7 @@
       {
         "id": 12,
         "caller": "Daniel Acosta",
-        "phoneNumber": "55 61 02 54 92",
+        "phoneNumber": "+525561025488",
         "callerGroup": "Poker",
         "dateTime": "2020-02-23T19:01:01+0000",
         "answered": false,
