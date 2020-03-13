@@ -4,43 +4,31 @@
     "data": [
       {
         "id": 1,
-        "name": "Julio",
-        "lastName": "Sanchez",
         "type": "Work",
         "phoneNumber": "+527711245835"
       },
       {
         "id": 2,
-        "name": "Gerardo",
-        "lastName": "Ramirez",
         "type": "Personal",
         "phoneNumber": "+527715274194"
       },
       {
         "id": 3,
-        "name": "Daniel",
-        "lastName": "Acosta",
         "type": "Poker",
         "phoneNumber": "+527717527962"
       },
       {
         "id": 4,
-        "name": "Evangelina",
-        "lastName": "Romero",
         "type": "Personal",
         "phoneNumber": "+527718240145"
       },
       {
         "id": 5,
-        "name": "Abraham",
-        "lastName": "Serrano",
         "type": "Poker",
         "phoneNumber": "+527713579512"
       },
       {
         "id": 6,
-        "name": "David",
-        "lastName": "Nieto",
         "type": "Work",
         "phoneNumber": "+527716457619"
       }
