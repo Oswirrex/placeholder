@@ -176,7 +176,7 @@
   },
   "accounts": {
     "status": "ok",
-    "accounts": [
+    "data": [
       {
         "id": 1,
         "phoneNickname": "Work Phone",
