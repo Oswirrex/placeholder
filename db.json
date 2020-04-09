@@ -78,6 +78,20 @@
           "timeCallForwarded": "16:45:00",
           "voicemailSystemAccessNumber": "x",
           "customerUsername": "RMC1"
+      },
+      {
+          "callId": "b698c49d-7107-4b75-b487-cf46985a2691",
+          "callDirection": "Outgoing",
+          "callingPartyName": "Daniel",
+          "callingPartyNumber": "8526975837",
+          "calledPartyNumber": "7716583214",
+          "typeOfCall": "Soccer Call",
+          "startTime": "2020-01-01T11:29:00+0000",
+          "answerTime": null,
+          "disconnectTime": null,
+          "timeCallForwarded": null,
+          "voicemailSystemAccessNumber": "x",
+          "customerUsername": "RMC1"
       }
     ]
   },
