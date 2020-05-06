@@ -38,60 +38,112 @@
     "status": "ok",
     "data": [
       {
-        "callId": "526ceb55-1353-4b41-8fcd-d74d2db6df6a",
-        "callDirection": "Outgoing",
-        "callingPartyName": "Ximena",
-        "callingPartyNumber": "5363158610",
-        "calledPartyNumber": "7716586333",
-        "typeOfCall": "Poker Call",
-        "startTime": "2020-01-01T12:00:00+0000",
-        "answerTime": "2020-01-01T00:34:30+0000",
-        "disconnectTime": "2020-01-01T03:59:00+0000",
-        "timeCallForwarded": "12:36:56",
-        "voicemailSystemAccessNumber": null,
-        "customerUsername": "RMC1"
+        "id": 1,
+        "caller": "Oswaldo Gallo",
+        "phoneNumber": "+525561025488",
+        "callerGroup": "Work",
+        "dateTime": "2020-03-04T19:35:01+0000",
+        "answered": true,
+        "type": "outgoing"
       },
       {
-          "callId": "ac801ff3-e42b-448c-a005-95188e096682",
-          "callDirection": "Incoming",
-          "callingPartyName": "Oswaldo",
-          "callingPartyNumber": "9853695896",
-          "calledPartyNumber": "7716382589",
-          "typeOfCall": "Work Call",
-          "startTime": "2020-01-01T13:30:00+0000",
-          "answerTime": "2020-01-01T00:10:00+0000",
-          "disconnectTime": "2020-01-01T10:35:00+0000",
-          "timeCallForwarded": "17:00:00",
-          "voicemailSystemAccessNumber": "x",
-          "customerUsername": "RMC2"
+        "id": 2,
+        "caller": "Gerardo Ramirez",
+        "phoneNumber": "+525561025488",
+        "callerGroup": "Personal",
+        "dateTime": "2020-03-04T18:20:01+0000",
+        "answered": true,
+        "type": "outgoing"
       },
       {
-          "callId": "c398c49d-7107-4b75-b487-cf46f6da2691",
-          "callDirection": "Outgoing",
-          "callingPartyName": "Daniel",
-          "callingPartyNumber": "8526975837",
-          "calledPartyNumber": "7716583214",
-          "typeOfCall": "Soccer Call",
-          "startTime": "2020-01-01T11:30:00+0000",
-          "answerTime": "2020-01-01T00:05:54+0000",
-          "disconnectTime": "2020-01-01T09:52:00+0000",
-          "timeCallForwarded": "16:45:00",
-          "voicemailSystemAccessNumber": "x",
-          "customerUsername": "RMC1"
+        "id": 3,
+        "caller": "David Nieto",
+        "phoneNumber": "+525561025488",
+        "callerGroup": "Work",
+        "dateTime": "2020-03-04T15:50:01+0000",
+        "answered": false,
+        "type": "outgoing"
       },
       {
-          "callId": "b698c49d-7107-4b75-b487-cf46985a2691",
-          "callDirection": "Outgoing",
-          "callingPartyName": "Daniel",
-          "callingPartyNumber": "8526975837",
-          "calledPartyNumber": "7716583214",
-          "typeOfCall": "Soccer Call",
-          "startTime": "2020-01-01T11:29:00+0000",
-          "answerTime": null,
-          "disconnectTime": null,
-          "timeCallForwarded": null,
-          "voicemailSystemAccessNumber": "x",
-          "customerUsername": "RMC1"
+        "id": 4,
+        "caller": "Evangelina Romero",
+        "phoneNumber": "+525561025488",
+        "callerGroup": "Personal",
+        "dateTime": "2020-03-03T23:32:01+0000",
+        "answered": true,
+        "type": "incoming"
+      },
+      {
+        "id": 5,
+        "caller": "Daniel Acosta",
+        "phoneNumber": "+525561025488",
+        "callerGroup": "Poker",
+        "dateTime": "2020-03-03T19:02:01+0000",
+        "answered": true,
+        "type": "outgoing"
+      },
+      {
+        "id": 6,
+        "caller": "Daniel Acosta",
+        "phoneNumber": "+525561025488",
+        "callerGroup": "Poker",
+        "dateTime": "2020-03-03T19:01:01+0000",
+        "answered": false,
+        "type": "incoming"
+      },
+      {
+        "id": 7,
+        "caller": "Oswaldo Gallo",
+        "phoneNumber": "+525561025488",
+        "callerGroup": "Work",
+        "dateTime": "2020-03-02T19:35:01+0000",
+        "answered": true,
+        "type": "outgoing"
+      },
+      {
+        "id": 8,
+        "caller": "Gerardo Ramirez",
+        "phoneNumber": "+525561025488",
+        "callerGroup": "Personal",
+        "dateTime": "2020-03-01T18:20:01+0000",
+        "answered": true,
+        "type": "outgoing"
+      },
+      {
+        "id": 9,
+        "caller": "David Nieto",
+        "phoneNumber": "+525561025488",
+        "callerGroup": "Work",
+        "dateTime": "2020-02-29T15:50:01+0000",
+        "answered": false,
+        "type": "outgoing"
+      },
+      {
+        "id": 10,
+        "caller": "Evangelina Romero",
+        "phoneNumber": "+525561025488",
+        "callerGroup": "Personal",
+        "dateTime": "2020-02-28T23:32:01+0000",
+        "answered": true,
+        "type": "incoming"
+      },
+      {
+        "id": 11,
+        "caller": "Daniel Acosta",
+        "phoneNumber": "+525561025488",
+        "callerGroup": "Poker",
+        "dateTime": "2020-02-27T19:02:01+0000",
+        "answered": true,
+        "type": "outgoing"
+      },
+      {
+        "id": 12,
+        "caller": "Daniel Acosta",
+        "phoneNumber": "+525561025488",
+        "callerGroup": "Poker",
+        "dateTime": "2020-02-23T19:01:01+0000",
+        "answered": false,
+        "type": "incoming"
       }
     ]
   },
