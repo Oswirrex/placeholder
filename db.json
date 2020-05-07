@@ -194,18 +194,12 @@
       }
     ]
   },
-  "conejo": [
+  "versions": [
     {
       "id": 1,
-      "name": "Oswaldo"
-    },
-    {
-      "id": 2,
-      "name": "Daniel"
-    },
-    {
-      "id": 3,
-      "name": "Gerardo"
+      "version": "1.0",
+      "critical": false,
+      "uri": "http://play.google.com/store/apps/details?id=com.google.android.apps.maps"
     }
   ]
 }
