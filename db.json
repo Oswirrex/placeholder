@@ -147,33 +147,20 @@
       }
     ]
   },
-  "doNotRingSettings": {
-    "status": "ok",
-    "data": [
-      {
-        "id": 1,
-        "name": "Only Work",
-        "isOneTime": false,
-        "accounts": ["Poker", "Personal", "Adult Care", "Soccer"],
-        "starts":"2020-01-01T15:00:00+0000",
-        "ends":"2020-01-01T23:00:00+0000",
-        "days": [1, 2, 3, 4, 5],
-        "isActive": true,
-        "exemptions" : ["Daniel Acosta"]
-      },
-      {
-        "id": 2,
-        "name": "Holidays",
-        "isOneTime": true,
-        "accounts": ["Work"],
-        "starts":"2020-03-06T23:00:00+0000",
-        "ends":"2020-03-15T23:00:00+0000",
-        "days": [],
-        "isActive": true,
-        "exemptions" : []
-      }
-    ]
-  },
+  "contacttypes": [
+    {
+      "id": 1,
+      "type_of_call": "Work"
+    },
+    {
+      "id": 2,
+      "type_of_call": "Soccer"
+    },
+    {
+      "id": 1,
+      "type_of_call": "Poker"
+    }
+  ],
   "accounts": {
     "status": "ok",
     "data": [
