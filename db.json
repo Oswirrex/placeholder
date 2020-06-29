@@ -1,40 +1,37 @@
 {
-  "contacts": {
-    "status": "ok",
-    "data": [
-      {
-        "id": 1,
-        "type": "Work",
-        "phoneNumber": "+1 541 754 3010"
-      },
-      {
-        "id": 2,
-        "type": "Personal",
-        "phoneNumber": "+1 541 754 3011"
-      },
-      {
-        "id": 3,
-        "type": "Poker",
-        "phoneNumber": "+1 541 754 3012"
-      },
-      {
-        "id": 4,
-        "type": "Personal",
-        "phoneNumber": "+1 541 754 3013"
-      },
-      {
-        "id": 5,
-        "type": "Poker",
-        "phoneNumber": "+1 541 754 3014"
-      },
-      {
-        "id": 6,
-        "type": "Work",
-        "phoneNumber": "+1 541 754 3015"
-      }
-    ]
-  },
-  "callLog" : {
+  "contacts": [
+    {
+      "id": 1,
+      "type": "Work",
+      "phoneNumber": "+1 541 754 3010"
+    },
+    {
+      "id": 2,
+      "type": "Personal",
+      "phoneNumber": "+1 541 754 3011"
+    },
+    {
+      "id": 3,
+      "type": "Poker",
+      "phoneNumber": "+1 541 754 3012"
+    },
+    {
+      "id": 4,
+      "type": "Personal",
+      "phoneNumber": "+1 541 754 3013"
+    },
+    {
+      "id": 5,
+      "type": "Poker",
+      "phoneNumber": "+1 541 754 3014"
+    },
+    {
+      "id": 6,
+      "type": "Work",
+      "phoneNumber": "+1 541 754 3015"
+    }
+  ],
+  "callLog": {
     "status": "ok",
     "data": [
       {
