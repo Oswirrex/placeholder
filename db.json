@@ -162,26 +162,26 @@
       "type_of_call": "Nuke"
     }
   ],
-  "accounts": {
-    "status": "ok",
-    "data": [
+  "accounts": [
       {
         "id": 1,
         "phoneNickname": "Work Phone",
-        "phoneNumber": "+52 21 54 78 25"
+        "phoneNumber": "+52 21 54 78 25",
+        "type": "Work"
       },
       {
         "id": 2,
         "phoneNickname": "Family Phone",
-        "phoneNumber": "+52 21 54 78 26"
+        "phoneNumber": "+52 21 54 78 26",
+        "type": "Personal"
       },
       {
         "id": 3,
         "phoneNickname": "Poker Phone",
-        "phoneNumber": "+52 21 54 78 25"
+        "phoneNumber": "+52 21 54 78 25",
+        "type": "Poker"
       }
-    ]
-  },
+    ],
   "versions": [
     {
       "id": 1,
