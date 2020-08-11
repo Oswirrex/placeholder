@@ -152,11 +152,13 @@
     },
     {
       "id": 2,
-      "type_of_call": "Soccer"
+      "type_of_call": "Soccer",
+      "menu_choice": 8
     },
     {
       "id": 3,
-      "type_of_call": "Poker"
+      "type_of_call": "Poker",
+      "menu_choice": 9
     }
   ],
   "accounts": [
