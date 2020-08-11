@@ -147,7 +147,8 @@
   "contacttypes": [
     {
       "id": 1,
-      "type_of_call": "Work"
+      "type_of_call": "Work",
+      "menu_choice": 7
     },
     {
       "id": 2,
@@ -156,10 +157,6 @@
     {
       "id": 3,
       "type_of_call": "Poker"
-    },
-    {
-      "id": 4,
-      "type_of_call": "Nuke"
     }
   ],
   "accounts": [
