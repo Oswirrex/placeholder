@@ -181,18 +181,16 @@
       "type": "Poker"
     }
   ],
-  "versions": [
+  "versions": {
+    "qualified": [
     {
       "id": 1,
-      "version": "1.0",
-      "critical": false,
-      "uri": "http://play.google.com/store/apps/details?id=com.google.android.apps.maps"
+      "presentation": "Desk Phone"
     },
     {
       "id": 2,
-      "version": "1.1",
-      "critical": false,
-      "uri": "http://play.google.com/store/apps/details?id=com.google.android.apps.maps"
+      "presentation": "Mobile Phone"
     }
   ]
+  }
 }
