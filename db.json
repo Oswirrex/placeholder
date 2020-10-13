@@ -146,19 +146,16 @@
   },
   "contacttypes": [
     {
-      "id": 1,
-      "type_of_call": "Work",
-      "menu_choice": 7
+      "id": "06d25dee-0d04-11eb-adc1-0242ac120002",
+      "type_of_call": "Work"
     },
     {
-      "id": 2,
-      "type_of_call": "Soccer",
-      "menu_choice": 8
+      "id": "06d26000-0d04-11eb-adc1-0242ac120002",
+      "type_of_call": "Soccer"
     },
     {
-      "id": 3,
-      "type_of_call": "Poker",
-      "menu_choice": 9
+      "id": "06d26104-0d04-11eb-adc1-0242ac120002",
+      "type_of_call": "Poker"
     }
   ],
   "accounts": [
