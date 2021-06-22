@@ -1,193 +1,76 @@
 {
-  "contacts": [
-    {
-      "id": 1,
-      "type": "Work",
-      "phoneNumber": "+1 541 754 3010"
-    },
-    {
-      "id": 2,
-      "type": "Personal",
-      "phoneNumber": "+1 541 754 3011"
-    },
-    {
-      "id": 3,
-      "type": "Poker",
-      "phoneNumber": "+1 541 754 3012"
-    },
-    {
-      "id": 4,
-      "type": "Personal",
-      "phoneNumber": "+1 541 754 3013"
-    },
-    {
-      "id": 5,
-      "type": "Poker",
-      "phoneNumber": "+1 541 754 3014"
-    },
-    {
-      "id": 6,
-      "type": "Work",
-      "phoneNumber": "+1 541 754 3015"
-    }
-  ],
-  "callLog": {
-    "status": "ok",
-    "data": [
+   "call_log":[
       {
-        "id": 1,
-        "caller": "Oswaldo Gallo",
-        "phoneNumber": "+525561025488",
-        "callerGroup": "Work",
-        "dateTime": "2020-03-04T19:35:01+0000",
-        "answered": true,
-        "type": "outgoing"
+         "callId":"aa1a19ae-c3b1-4c96-a0ee-7498790125f6",
+         "customerUsernameUid":"JWv6o0I6XrM8eVCQh7Ii9578O2z1",
+         "callDirection":"Incoming Call",
+         "callingPartyName":"",
+         "callingPartyNumber":"+17025947010",
+         "calledPartyNumber":"+17025947005",
+         "typeOfCall":"Personal Call",
+         "startTime":"2021-06-11T00:00:00.000Z",
+         "answerTime":"",
+         "disconnectTime":"2021-06-11T18:29:37.245Z"
       },
       {
-        "id": 2,
-        "caller": "Gerardo Ramirez",
-        "phoneNumber": "+525561025488",
-        "callerGroup": "Personal",
-        "dateTime": "2020-03-04T18:20:01+0000",
-        "answered": true,
-        "type": "outgoing"
+         "callId":"606619a3-cbb3-4cc0-b8ee-9266d901251c",
+         "customerUsernameUid":"JWv6o0I6XrM8eVCQh7Ii9578O2z1",
+         "callDirection":"Outgoing Call",
+         "callingPartyName":"Julio, Office",
+         "callingPartyNumber":"+17025947006",
+         "calledPartyNumber":"+17025947007",
+         "typeOfCall":"Office Call",
+         "startTime":"2021-06-17T14:53:21.000Z",
+         "answerTime":"",
+         "disconnectTime":"2021-06-17T14:53:44.984Z"
       },
       {
-        "id": 3,
-        "caller": "David Nieto",
-        "phoneNumber": "+525561025488",
-        "callerGroup": "Work",
-        "dateTime": "2020-03-04T15:50:01+0000",
-        "answered": false,
-        "type": "outgoing"
+         "callId":"93c419a9-cb7a-4890-8bee-d65ec90125df",
+         "customerUsernameUid":"JWv6o0I6XrM8eVCQh7Ii9578O2z1",
+         "callDirection":"Incoming Call",
+         "callingPartyName":"",
+         "callingPartyNumber":"+17025947007",
+         "calledPartyNumber":"+17025947005",
+         "typeOfCall":"Personal Call",
+         "startTime":"2021-06-17T00:00:00.000Z",
+         "answerTime":"",
+         "disconnectTime":"2021-06-17T18:33:00.502Z"
       },
       {
-        "id": 4,
-        "caller": "Evangelina Romero",
-        "phoneNumber": "+525561025488",
-        "callerGroup": "Personal",
-        "dateTime": "2020-03-03T23:32:01+0000",
-        "answered": true,
-        "type": "incoming"
+         "callId":"82ab19a5-badb-4ea7-86ec-cf455e012595",
+         "customerUsernameUid":"JWv6o0I6XrM8eVCQh7Ii9578O2z1",
+         "callDirection":"Incoming Call",
+         "callingPartyName":"",
+         "callingPartyNumber":"+17025947007",
+         "calledPartyNumber":"+17025947006",
+         "typeOfCall":"Office Call",
+         "startTime":"2021-06-04T00:00:00.000Z",
+         "answerTime":"",
+         "disconnectTime":"2021-06-04T19:50:15.558Z"
       },
       {
-        "id": 5,
-        "caller": "Daniel Acosta",
-        "phoneNumber": "+525561025488",
-        "callerGroup": "Poker",
-        "dateTime": "2020-03-03T19:02:01+0000",
-        "answered": true,
-        "type": "outgoing"
-      },
-      {
-        "id": 6,
-        "caller": "Daniel Acosta",
-        "phoneNumber": "+525561025488",
-        "callerGroup": "Poker",
-        "dateTime": "2020-03-03T19:01:01+0000",
-        "answered": false,
-        "type": "incoming"
-      },
-      {
-        "id": 7,
-        "caller": "Oswaldo Gallo",
-        "phoneNumber": "+525561025488",
-        "callerGroup": "Work",
-        "dateTime": "2020-03-02T19:35:01+0000",
-        "answered": true,
-        "type": "outgoing"
-      },
-      {
-        "id": 8,
-        "caller": "Gerardo Ramirez",
-        "phoneNumber": "+525561025488",
-        "callerGroup": "Personal",
-        "dateTime": "2020-03-01T18:20:01+0000",
-        "answered": true,
-        "type": "outgoing"
-      },
-      {
-        "id": 9,
-        "caller": "David Nieto",
-        "phoneNumber": "+525561025488",
-        "callerGroup": "Work",
-        "dateTime": "2020-02-29T15:50:01+0000",
-        "answered": false,
-        "type": "outgoing"
-      },
-      {
-        "id": 10,
-        "caller": "Evangelina Romero",
-        "phoneNumber": "+525561025488",
-        "callerGroup": "Personal",
-        "dateTime": "2020-02-28T23:32:01+0000",
-        "answered": true,
-        "type": "incoming"
-      },
-      {
-        "id": 11,
-        "caller": "Daniel Acosta",
-        "phoneNumber": "+525561025488",
-        "callerGroup": "Poker",
-        "dateTime": "2020-02-27T19:02:01+0000",
-        "answered": true,
-        "type": "outgoing"
-      },
-      {
-        "id": 12,
-        "caller": "Daniel Acosta",
-        "phoneNumber": "+525561025488",
-        "callerGroup": "Poker",
-        "dateTime": "2020-02-23T19:01:01+0000",
-        "answered": false,
-        "type": "incoming"
+         "callId":"90e719a2-c341-4514-9bed-d9f68e012583",
+         "customerUsernameUid":"JWv6o0I6XrM8eVCQh7Ii9578O2z1",
+         "callDirection":"Outgoing Call",
+         "callingPartyName":"Julio, Office",
+         "callingPartyNumber":"+17025947006",
+         "calledPartyNumber":"+17025947007",
+         "typeOfCall":"Office Call",
+         "startTime":"2021-06-11T16:41:44.000Z",
+         "answerTime":"",
+         "disconnectTime":"2021-06-11T16:41:56.965Z"
       }
-    ]
-  },
-  "contacttypes": [
-    {
-      "id": "06d25dee-0d04-11eb-adc1-0242ac120002",
-      "type_of_call": "Work"
-    },
-    {
-      "id": "06d26000-0d04-11eb-adc1-0242ac120002",
-      "type_of_call": "Soccer"
-    },
-    {
-      "id": "06d26104-0d04-11eb-adc1-0242ac120002",
-      "type_of_call": "Poker"
-    }
-  ],
-  "accounts": [
-    {
-      "id": 1,
-      "phoneNickname": "Work Phone",
-      "phoneNumber": "+52 21 54 78 25",
-      "type": "Work"
-    },
-    {
-      "id": 2,
-      "phoneNickname": "Family Phone",
-      "phoneNumber": "+52 21 54 78 26",
-      "type": "Personal"
-    },
-    {
-      "id": 3,
-      "phoneNickname": "Soccer Phone",
-      "phoneNumber": "+52 21 54 78 25",
-      "type": "Poker"
-    }
-  ],
-  "versions": {
-    "qualified": [
-    {
-      "id": 1,
-      "presentation": "Desk Phone"
-    },
-    {
-      "id": 2,
-      "presentation": "Mobile Phone"
-    }
-  ]
-  }
+   ],
+   "versions":{
+      "qualified":[
+         {
+            "id":1,
+            "presentation":"Desk Phone"
+         },
+         {
+            "id":2,
+            "presentation":"Mobile Phone"
+         }
+      ]
+   }
 }
